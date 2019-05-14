@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:dividerPadding="1dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/tv_item_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:padding="2dp"
+        android:textSize="18sp"
+        android:text="city"/>
+
+</LinearLayout>
+
+    <!--省市名布局-->
